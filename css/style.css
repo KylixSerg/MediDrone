@@ -20,6 +20,19 @@
 		line-height: 1.75em;
 	}
 
+.container{
+	position: relative;
+	top: 200px;
+
+
+
+}
+
+
+
+
+
+
 	a {
 		color: #3ac984;
 		text-decoration: underline;
@@ -66,6 +79,14 @@
 		position: relative;
 		top: 0.5em;
 	}
+	.services{
+font-weight: bold;
+
+
+
+	}
+
+
 
 	sup {
 		font-size: 0.8em;
@@ -178,6 +199,7 @@
 	.image {
 		border: 0;
 		position: relative;
+		padding: 2rem;
 	}
 
 		.image.fit {
@@ -445,6 +467,7 @@
 
 	.wrapper.style1 {
 		background: #fff;
+		padding: 6em 0;
 	}
 
 	.wrapper.style2 {
@@ -505,14 +528,18 @@
 	#logo {
 		font-size: 3em;
 
-
+position: relative;
+bottom: 250px;
+font-size: 5rem;
 
 
 		color: #32b777;
 	}
 
 	#nav > ul {
-		margin: 0;
+   position: relative;
+	 top: 5rem;
+
 	}
 
 		#nav > ul > li {
@@ -613,13 +640,17 @@
 	}
 
 	#main {
-		padding: 20em 0;
+		padding: 20rem 0;
 	}
 	#main-2 {
-		padding: 20em 0;
+		padding: 0 0;
+
 	}
 
+
+
 		#main .sidebar .major {
+
 			padding-bottom: 2em;
 		}
 
