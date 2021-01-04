@@ -338,10 +338,21 @@ font-weight: bold;
 			clear: both;
 			display: block;
 			padding-top: 3em;
+
+
+
+
 		}
+		.mobile-fix{
+margin-bottom: 200px;
+
+		}
+
+
 
 		ul.style > :first-child {
 			padding-top: 0;
+
 		}
 
 		ul.style h3 {
@@ -535,6 +546,11 @@ font-size: 5rem;
 
 		color: #32b777;
 	}
+	#welcome{
+
+		color: #32b777;
+		font-weight: bold;
+	}
 
 	#nav > ul {
    position: relative;
@@ -554,7 +570,7 @@ font-size: 5rem;
 				text-decoration: none;
 
 				font-weight: bold;
-				font-size: 2rem;
+				font-size: 1.5rem;
 			}
 
 			#nav > ul > li:first-child {
@@ -641,9 +657,12 @@ font-size: 5rem;
 
 	#main {
 		padding: 20rem 0;
+		padding-top: 100px;
 	}
 	#main-2 {
-		padding: 0 0;
+		padding: 50px 0;
+		padding-bottom: 300px;
+
 
 	}
 
